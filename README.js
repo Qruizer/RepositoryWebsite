@@ -1,5 +1,4 @@
-# RepositoryWebsite
-Lets make an website!
+# RepositoryWebsite -> Lets make an website!
 
 Package.describe({
 	name: 'djk:clndr',
